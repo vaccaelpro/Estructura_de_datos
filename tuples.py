@@ -1,0 +1,5 @@
+tupla = (1, 2, 3, 4, 5)
+print(len(tupla))
+print(tupla[0])
+print(3 in tupla)
+print(tupla.index(3))
